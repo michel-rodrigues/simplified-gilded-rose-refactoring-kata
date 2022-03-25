@@ -1,0 +1,1 @@
+# simplified-gilded-rose-refactoring-kata
